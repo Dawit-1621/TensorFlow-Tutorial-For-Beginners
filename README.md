@@ -5,7 +5,6 @@
 * numpy
 * pandas
 * matplotlib
-* pickle
 * keras
 
 ## Project Motivation
