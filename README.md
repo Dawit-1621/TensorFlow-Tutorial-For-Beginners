@@ -6,6 +6,7 @@
 * pandas
 * matplotlib
 * keras
+* tensorflow
 
 ## Project Motivation
 
